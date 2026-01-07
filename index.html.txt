@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>الشؤون الإدارية</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="overlay"></div>
+
+    <header>
+        <h1>الشؤون الإدارية</h1>
+        <p>نظام إداري مبسّط واحترافي</p>
+    </header>
+
+    <section class="content">
+        <h2>مرحبًا بكم</h2>
+        <p>
+            هذا الموقع مخصص لإدارة الشؤون الإدارية وتنظيم البيانات بشكل بسيط وسريع.
+        </p>
+
+        <div class="buttons">
+            <a href="#">الخدمات</a>
+            <a href="#">التواصل</a>
+            <a href="#">حول النظام</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 - الشؤون الإدارية</p>
+    </footer>
+
+</body>
+</html>
